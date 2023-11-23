@@ -1,0 +1,32 @@
+header {
+    display:flex; 
+    background-color: black;
+    height: 200px;
+    justify-content: space-between;
+
+}
+
+.logo {
+display: flex;
+justify-content: center;
+
+}
+
+.logo img {
+height: 150px;
+
+}
+
+.toplinks a {
+margin: 20px;
+color:white;
+text-decoration: none;
+background-color: palevioletred;
+padding: 4px 10px;
+border-radius: 30px;
+font-size: 15px;
+
+}
+
+
+}
