@@ -1,3 +1,7 @@
+
+/* début CSS jorge*/
+
+
 header {
     display:flex; 
     background-color: black;
@@ -18,15 +22,22 @@ height: 150px;
 }
 
 .toplinks a {
+
+    display: flex;
+    justify-content: space-evenly;
 margin: 20px;
 color:white;
 text-decoration: none;
-background-color: palevioletred;
+background-color: rgb(214, 65, 19);
 padding: 4px 10px;
 border-radius: 30px;
 font-size: 15px;
 
 }
+
+/* fin CSS jorge*/
+
+/* debut CSS lucas*/
 
 /* css de la premiere section avec le texte */
 
@@ -89,4 +100,6 @@ margin-right: -10%;
 margin-top: 40px;
 
 }
+
+/* fin CSS lucas */
 
