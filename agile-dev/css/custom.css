@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 header {
     display:flex; 
     background-color: black;
@@ -26,7 +25,8 @@ background-color: palevioletred;
 padding: 4px 10px;
 border-radius: 30px;
 font-size: 15px;
-=======
+
+}
 
 /* css de la premiere section avec le texte */
 
@@ -64,14 +64,7 @@ font-size: 15px;
     display: flex;
     justify-content: space-evenly;
     color: rgb(255, 255, 255);
->>>>>>> 8205f7e (ajout de la section 1 de lucas)
-
 }
-
-
-<<<<<<< HEAD
-}
-=======
 
 #section1 .links a{
     background-color: rgb(70, 64, 64);
@@ -97,4 +90,3 @@ margin-top: 40px;
 
 }
 
->>>>>>> 8205f7e (ajout de la section 1 de lucas)
