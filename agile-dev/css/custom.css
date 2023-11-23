@@ -1,4 +1,6 @@
+/*debut de texte jorge*/
 header {
+    
     display:flex; 
     background-color: black;
     height: 200px;
@@ -18,17 +20,22 @@ height: 150px;
 }
 
 .toplinks a {
+    display: flex;
 margin: 20px;
 color:white;
 text-decoration: none;
-background-color: palevioletred;
+background-color: rgb(214, 65, 19);
 padding: 4px 10px;
 border-radius: 30px;
 font-size: 15px;
 
 }
 
-/* css de la premiere section avec le texte */
+
+
+/*fin de texte jorge*/
+
+/* css de la premiere section avec le texte Lucas */
 
 #section1 {
 
@@ -90,3 +97,28 @@ margin-top: 40px;
 
 }
 
+/* css Romain de la deuxieme setion  */
+
+#section2 {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+background-color: rgb(247, 242, 242);
+align-items: normal;
+}
+
+.div1r {
+    
+    
+   width: 20%;
+   
+}
+
+.div2r {
+    width:700px;
+    margin: left;
+    Overflow: hidden;
+    margin-left: 50px;
+    margin: 50px 20px;
+}
